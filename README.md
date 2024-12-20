@@ -16,7 +16,7 @@ git clone https://github.com/FlutterGenerator/MAP-DECODE.git
 5. Open MAP-DECODE directory and run ./unpeckmap.
 ```
 cd MAP-DECODE
-chmod +x unpeckmap
-./unpeckmap
+chmod +x unpackmap
+./unpackmap
 ```
 6. Done.
